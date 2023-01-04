@@ -1,0 +1,4 @@
+td|12345|bb|aa|22222|2022
+apartment|90|2|addr|ee|4|4444|fdfd
+store|56|2|addr|rtrt|44|4444|fdf
+---

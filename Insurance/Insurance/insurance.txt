@@ -1,0 +1,105 @@
+------Auto Insurance policy------
+Name: aa
+Age: 30
+Coverage: 10
+Car age: 2
+Monthly cost: 90
+------Life Insurance policy------
+Name: aa
+Age: 30
+Coverage: 10
+Monthly cost: 50
+------Auto Insurance policy------
+Name: aa
+Age: 30
+Coverage: 10
+Car age: 2
+Monthly cost: -9
+------Life Insurance policy------
+Name: aa
+Age: 30
+Coverage: 10
+Monthly cost: 300
+------Auto Insurance policy------
+Name: aa
+Age: 30
+Coverage: 15000
+Car age: 2
+Monthly cost: 740
+------Life Insurance policy------
+Name: aa
+Age: 30
+Coverage: 1000000
+Monthly cost: 1300
+------Auto Insurance policy------
+Name: aa
+Age: 30
+Coverage: 15000
+Car age: 2
+Yearly cost: 740
+------Life Insurance policy------
+Name: aa
+Age: 30
+Coverage: 1000000
+Yearly cost: 1300
+------Auto Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 15000
+Car age: 2
+Yearly cost: 740
+------Life Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 1000000
+Yearly cost: 1300
+------Auto Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 15000
+Car age: 2
+Yearly cost: 740
+------Life Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 1000000
+Yearly cost: 1300
+------Auto Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 15000
+Car age: 2
+Yearly cost: 740
+------Auto Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 15000
+Car age: 2
+Yearly cost: 740
+------Life Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 1000000
+Yearly cost: 1300
+------Auto Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 15000
+Car age: 2
+Yearly cost: 740
+------Life Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 1000000
+Yearly cost: 1300
+------Auto Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 15000
+Car age: 2
+Yearly cost: 740
+------Life Insurance policy------
+Name: John Doe
+Age: 30
+Coverage: 1000000
+Yearly cost: 1300
